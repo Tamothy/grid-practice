@@ -1,3 +1,7 @@
+#form {
+  color: black;
+}
+
 #logo {
   float: left;
   padding: 15px 0;
@@ -21,4 +25,15 @@ li:hover {
 
 .container {
   background-color: #1D1207;
+}
+
+.neon-pic {
+  padding: 10px;
+  text-align: center;
+  background: linear-gradient(#361F0B, #1F120B);
+}
+
+.main {
+  color: white;
+  border: solid #625247;
 }
