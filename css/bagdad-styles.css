@@ -1,0 +1,24 @@
+#logo {
+  float: left;
+  padding: 15px 0;
+}
+
+body {
+  background-color: #1D1207;
+}
+li {
+  list-style-type: none;
+  float: left;
+  padding: 10px;
+  margin-top: 25px;
+  color: #DA7E25;
+}
+
+li:hover {
+  opacity: .5;
+  cursor: pointer;
+}
+
+.container {
+  background-color: #1D1207;
+}
